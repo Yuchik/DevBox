@@ -1,0 +1,3 @@
+[submodule "deployment-environments"]
+	path = deployment-environments
+	url = https://github.com/Azure/deployment-environments.git
